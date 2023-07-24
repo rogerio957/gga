@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXTINF:-1 
+https://hd-auth.skylinewebcams.com/live.m3u8?a=m3ava1o7al4q5nn510mmaom2j4
+#EXTINF:-2
+https://hd-auth.skylinewebcams.com/live.m3u8?a=m3ava1o7al4q5nn510mmaom2j4
+#EXTINF:-3
+https://hd-auth.skylinewebcams.com/live.m3u8?a=m3ava1o7al4q5nn510mmaom2j4
+#EXTINF:-4
+https://hd-auth.skylinewebcams.com/live.m3u8?a=m3ava1o7al4q5nn510mmaom2j4
+#EXTINF:-5
+https://hd-auth.skylinewebcams.com/live.m3u8?a=m3ava1o7al4q5nn510mmaom2j4
+#EXTINF:-6
+https://hd-auth.skylinewebcams.com/live.m3u8?a=m3ava1o7al4q5nn510mmaom2j4
